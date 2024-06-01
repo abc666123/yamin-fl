@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "541389336352",
+    "firebase_url": "https://bdchefs23-default-rtdb.firebaseio.com",
+    "project_id": "bdchefs23",
+    "storage_bucket": "bdchefs23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541389336352:android:26d0d185a98f9a71feb145",
+        "android_client_info": {
+          "package_name": "com.oziroon.bdchefs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541389336352-66sbp7vnqpabadv1r9lui8c00dju9es4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oziroon.bdchefs",
+            "certificate_hash": "63939618776814bb7490d0cde7f7066177a75be3"
+          }
+        },
+        {
+          "client_id": "541389336352-atbkdu17sn5n07c7174odb2kc30fdh3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oziroon.bdchefs",
+            "certificate_hash": "2eed0bf1aad5b62193915a7351cb363e279ee8b5"
+          }
+        },
+        {
+          "client_id": "541389336352-jncjkmv1o8mp9p48ntjj3almoc6u4st7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oziroon.bdchefs",
+            "certificate_hash": "7078a509d401f936b97ee49f353532a678a268b5"
+          }
+        },
+        {
+          "client_id": "541389336352-l690sbhej2monat0ltdfak4ht69dok9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oziroon.bdchefs",
+            "certificate_hash": "bb27d07788048373c4d0bd51db0c63a62e1d5cb7"
+          }
+        },
+        {
+          "client_id": "541389336352-oerj4ipl3n2d4f0h3e1us5kp02uqttjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6vwacMirBNwk9HwvMqI5Glj2OOKjk58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541389336352-oerj4ipl3n2d4f0h3e1us5kp02uqttjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541389336352:android:884cbe230f2d374bfeb145",
+        "android_client_info": {
+          "package_name": "com.oziroon.chefsbdchefs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541389336352-oerj4ipl3n2d4f0h3e1us5kp02uqttjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6vwacMirBNwk9HwvMqI5Glj2OOKjk58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541389336352-oerj4ipl3n2d4f0h3e1us5kp02uqttjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541389336352:android:798a3a2c0261f1c5feb145",
+        "android_client_info": {
+          "package_name": "com.oziroon.ridersbdchefs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541389336352-oerj4ipl3n2d4f0h3e1us5kp02uqttjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6vwacMirBNwk9HwvMqI5Glj2OOKjk58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541389336352-oerj4ipl3n2d4f0h3e1us5kp02uqttjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
